@@ -1,6 +1,4 @@
-#Project Issue Tracker
-
-*Example, usage:*
+# Project Issue Tracker
 
 https://fcc-issue-tracker-challenge.glitch.me//api/issues/{project} 
 
