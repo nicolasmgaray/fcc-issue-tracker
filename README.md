@@ -11,6 +11,6 @@
 
 <h3>Live Frontend Example</h3> 
 
-Go to (https://fcc-issue-tracker-challenge.glitch.me/apitest/)[https://fcc-issue-tracker-challenge.glitch.me/apitest/] project issues
+Go to [https://fcc-issue-tracker-challenge.glitch.me/apitest/](https://fcc-issue-tracker-challenge.glitch.me/apitest/) project issues
 
 
